@@ -1,5 +1,4 @@
 """Find the difference between two lowest numbers in the list"""
 
-list1=list(map(int,input().split()))
-list2=list(map(int,input().split()))
-print(min(list1)-min(list2))
+list1=sorted(list(map(int,input().split())))
+print(list[1]-list[0])
