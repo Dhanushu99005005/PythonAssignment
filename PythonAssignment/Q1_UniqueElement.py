@@ -1,4 +1,5 @@
-"""In a given list of elements, all elements are equal except the one.Write a code to find the odd man out (Stray number)"""
+"""In a given list of elements, all elements are equal except the one.Write a code to find the odd man out (Stray
+number) """
 
 element_list = list(map(int, input().split()))
 element_dict = {}
